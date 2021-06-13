@@ -1,2 +1,2 @@
 # portfolio-analysis
-RU BCS HW3
+RU-BCS-hw3
